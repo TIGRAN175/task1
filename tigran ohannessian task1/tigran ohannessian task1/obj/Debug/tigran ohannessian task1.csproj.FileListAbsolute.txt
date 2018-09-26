@@ -1,0 +1,9 @@
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\bin\Debug\tigran ohannessian task1.exe.config
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\bin\Debug\tigran ohannessian task1.exe
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\bin\Debug\tigran ohannessian task1.pdb
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran ohannessian task1.csprojResolveAssemblyReference.cache
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran_ohannessian_task1.Form1.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran_ohannessian_task1.Properties.Resources.resources
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran ohannessian task1.csproj.GenerateResource.Cache
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran ohannessian task1.exe
+C:\Users\TiG\documents\visual studio 2017\Projects\tigran ohannessian task1\tigran ohannessian task1\obj\Debug\tigran ohannessian task1.pdb
